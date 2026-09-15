@@ -1,9 +1,9 @@
-// Last updated: 9/15/2026, 7:26:26 PM
+// Last updated: 9/15/2026, 7:28:04 PM
 1class MyCalendar {
 2    vector<pair<int, int>> calendar_pages;
 3public:
 4    MyCalendar() {
-5        map<int, int> bookings;
+5
 6    }
 7    
 8    bool book(int startTime, int endTime) {
