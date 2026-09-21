@@ -1,4 +1,4 @@
-// Last updated: 9/21/2026, 10:51:32 PM
+// Last updated: 9/21/2026, 10:51:40 PM
 1class Solution {
 2public:
 3    int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
