@@ -1,4 +1,4 @@
-// Last updated: 10/12/2026, 8:05:32 PM
+// Last updated: 10/12/2026, 8:38:07 PM
 1class Solution {
 2public:
 3    int minCostClimbingStairs(vector<int>& cost) {
