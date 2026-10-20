@@ -1,4 +1,4 @@
-// Last updated: 10/21/2026, 1:41:36 AM
+// Last updated: 10/21/2026, 1:41:43 AM
 1class Solution {
 2public:
 3    int maxRotateFunction(vector<int>& nums) {
