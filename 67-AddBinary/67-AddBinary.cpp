@@ -1,4 +1,4 @@
-// Last updated: 10/27/2026, 10:28:09 PM
+// Last updated: 10/27/2026, 11:02:19 PM
 1class Solution {
 2public:
 3    string addBinary(string a, string b) {
@@ -16,5 +16,4 @@
 15    reverse(res.begin(), res.end());
 16    return res;
 17}
-18
-19};
+18};
