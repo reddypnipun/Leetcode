@@ -1,4 +1,4 @@
-// Last updated: 10/30/2026, 10:35:25 PM
+// Last updated: 10/30/2026, 10:36:49 PM
 1class Solution {
 2public:
 3    int numSquares(int n) {
