@@ -1,4 +1,4 @@
-// Last updated: 11/8/2026, 11:35:53 PM
+// Last updated: 11/8/2026, 11:57:43 PM
 1class Solution {
 2public:
 3    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
