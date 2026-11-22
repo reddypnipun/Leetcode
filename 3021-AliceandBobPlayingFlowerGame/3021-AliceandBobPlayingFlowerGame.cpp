@@ -1,4 +1,4 @@
-// Last updated: 11/22/2026, 10:25:57 PM
+// Last updated: 11/22/2026, 10:26:21 PM
 1class Solution {
 2public:
 3    long long flowerGame(int n, int m) {
